@@ -1,0 +1,27 @@
+body{
+	background-color:#fdddca;
+}
+*
+{
+    box-sizing: border-box;
+}
+nav a
+{
+    margin-left: 7.5px;
+    margin-right: 7.5px;
+  
+}
+.container
+{
+    width: 1170px;
+    padding: 0 15px 0 15px;
+    margin: 0 auto;
+    
+}
+.banner-home
+{ 
+ width: 70%;
+ height: auto;
+display: block;
+
+ }
