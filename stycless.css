@@ -39,16 +39,8 @@ a{
 }
 .banner-home
 { 
- width: 70%;
+ width: 100%;
  height: auto;
 display: block;
 
  }
-.banner-home
- {  
-
-width: 1170px;
-    padding: 0 15px 0 15px;
-    margin: 0 auto;
-
-  }
