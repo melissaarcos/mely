@@ -1,6 +1,3 @@
-body{
-	background-color:#FFDAB9;
-}
 *
 {
     box-sizing: border-box;
@@ -27,8 +24,12 @@ a{
 }
 .cabecera .menu a
 {
-    margin-left: 7.5px;
-    margin-right: 7.5px;
+    margin-left: 8.5px;
+    margin-right: 8.5px;
+    color:#893e29 ; 
+    text-decoration: none;
+    font-size: 20px
+
 }
 .container
 {
@@ -43,4 +44,7 @@ a{
  height: auto;
 display: block;
 
+ }
+header{  
+      background-color: #FFA500;
  }
