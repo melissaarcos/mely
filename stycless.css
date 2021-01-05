@@ -5,6 +5,9 @@
 a{
     display: inline-block;
 }
+body{
+    background-color: #FFEFD5;
+}
 
 .cabecera
 {
@@ -149,4 +152,8 @@ a{
 {
     font-size: 30px;
     color: #fff492;
+}
+form{
+    background-color: #E5B062;
+
 }
